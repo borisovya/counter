@@ -1,0 +1,8 @@
+.buttonStyle {
+    height: 40px;
+    width: 60px;
+    background-color: hotpink;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 45px;
+}
