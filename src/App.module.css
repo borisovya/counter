@@ -1,0 +1,46 @@
+.app {
+    height: 40vh;
+    border: 1px solid;
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    background-color: yellow;
+}
+
+
+.display {
+    width: 300px;
+    border: 3px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.displayValue {
+    border-radius: 5px;
+    background-color: deepskyblue;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 60%;
+    border: 2px solid;
+}
+
+.buttonsBlock {
+    background-color: deepskyblue;
+    border: 2px solid;
+    border-radius: 5px;
+    width: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.settingsValue {
+    font-size: 20px;
+}
+
+

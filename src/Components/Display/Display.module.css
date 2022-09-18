@@ -1,42 +1,10 @@
-.displayStyle {
-    text-align: center;
-    height: 120px;
-    background-color: deepskyblue;
-    margin: auto;
-    width: 260px;
-    border: 3px solid black;
-    padding: 10px;
-    font-size: 80px;
-    border-radius: 10px;
-}
-
-.buttonsStyleBlock {
-    display: flex;
-    background-color: deepskyblue;
-    align-content: center;
-    border-radius: 5px;
-    margin: auto;
-    margin-top: 5px;
-    border: 3px solid black;
-    width: 260px;
-    padding: 10px;
-}
 
 .error {
-    text-align: center;
-    height: 120px;
-    background-color: deepskyblue;
-    margin: auto;
-    width: 260px;
-    border: 3px solid red;
-    padding: 10px;
-    font-size: 100px;
     color: red;
-    border-radius: 10px;
+    opacity: 50%;
 }
 
-.errorMessage {
-    color: red;
-    margin-left: 90px;
-}
+
+
+
 
